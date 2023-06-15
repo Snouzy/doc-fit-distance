@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Documentation de ${siteConfig.title}`}
+      title={`Documentation de ${siteConfig.title} | Coaching en ligne`}
       description="Fit'Distance - Coaching à distance">
       <HomepageHeader />
       <main>
