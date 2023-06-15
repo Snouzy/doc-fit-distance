@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Facile à utiliser',
+    Svg: require('@site/static/img/easy.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Tout a été simplifié au max. Nos docs sont hyper clairs et l’interface, c’est du gâteau. Même si t'es pas un pro de la techno, tu vas naviguer comme un chef.
+        La documentation a été designée debut le début pour être, rapide, facilement navigable et agréable à utiliser !
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Focalise-toi sur l\'essentiel',
+    Svg: require('@site/static/img/focus.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        On va droit au but avec des docs qui vont t'aider à choper rapidement ce dont t'as besoin, sans te noyer dans un océan de blabla. Viens donc explorer nos ressources et débarrasse-toi de l’inutile.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Mis à jour régulièrement',
+    Svg: require('@site/static/img/update.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        L'actualisation de nos docs suit l'actualisation de l'app pour que tu aies toujours les infos les plus fraîches en main. Que tu cherches des guides, des tutos ou des réponses à des questions techniques, on a ce qu'il te faut.
       </>
     ),
   },
