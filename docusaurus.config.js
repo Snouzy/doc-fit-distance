@@ -83,6 +83,16 @@ const config = {
             label: 'L\'application',
             position: 'right',
           },
+          {
+            label: 'Le site',
+            href: 'https://fitdistance.io',
+            position: 'right',
+          },
+          {
+            label: 'La newsletter',
+            href: 'https://gmail.us11.list-manage.com/subscribe?u=9411702375c68c5fea7499cff&id=301a671e33',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -132,6 +142,14 @@ const config = {
               {
                 label: 'L\'application',
                 href: 'https://app.fitdistance.io',
+              },
+              {
+                label: 'Le site',
+                href: 'https://fitdistance.io',
+              },
+              {
+                label: 'La newsletter',
+                href: 'https://gmail.us11.list-manage.com/subscribe?u=9411702375c68c5fea7499cff&id=301a671e33',
               },
             ],
           },
